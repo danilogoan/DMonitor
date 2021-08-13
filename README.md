@@ -41,3 +41,8 @@ A [especificação do projeto](https://github.com/danilogoan/DMonitor/blob/main/
 ## Grupo:
 
 - Danilo Gomes de Andrade
+
+<h4 align="center">
+<img src="https://github.com/danilogoan/DMonitor/blob/main/icons/symbolv2.jpg" width="200"><br>
+</h4>
+
