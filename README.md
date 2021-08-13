@@ -38,6 +38,6 @@ Para a utilização do sistema, deve-se ter um dispositvo móvel que funcione co
 
 A [especificação do projeto](https://github.com/danilogoan/DMonitor/blob/main/documents/EspecificacaoProjeto-DMonitor.docx.pdf) e o [plano de projeto](https://github.com/danilogoan/DMonitor/blob/main/documents/Plano%20de%20Projeto%20-%20DMonitor.pdf) podem ser acessados pelo link ou na pasta "documents".
 
-## Group:
+## Grupo:
 
 - Danilo Gomes de Andrade
